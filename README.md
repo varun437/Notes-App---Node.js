@@ -11,5 +11,5 @@ LIST NOTE:
 node app.js list
 
 READ NOTE:
-node note.js read --title="title"
+node app.js read --title="title"
 ```
